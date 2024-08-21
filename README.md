@@ -8,7 +8,7 @@ FLAME is a game named after the acronym: Friends, Lovers, Affectionate, Marriage
 
 ## Authors
 
-- [@AjayGanesh00](https://www.github.com/ajayganeshch)
+- [Ajay Ganesh](https://www.github.com/ajayganeshch)
 
 
 ## FAQ
