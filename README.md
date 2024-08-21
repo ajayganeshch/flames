@@ -8,7 +8,7 @@ FLAME is a game named after the acronym: Friends, Lovers, Affectionate, Marriage
 
 ## Authors
 
-- [@AjayGanesh00](https://www.github.com/AjayGanesh00)
+- [@AjayGanesh00](https://www.github.com/ajayganeshch)
 
 
 ## FAQ
@@ -29,9 +29,8 @@ Copyright Deserves To Me Only.
 
 Just Copy The Code Which Was Given and paste it in python script paage and save it (Ctrl + S) and Run It.(F5)
 
-```bash
-  install python from google
-```
+- install python from google
+
     
 ## Features
 
